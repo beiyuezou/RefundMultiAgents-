@@ -36,8 +36,4 @@ Quickstart (AI Studio)
 # Try it:https://refund-multi-agent-system-912794403895.us-west1.run.app
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1NpiPkA9AU__0CnlHQwBYMDzjrlDg4jGJ
-
 
