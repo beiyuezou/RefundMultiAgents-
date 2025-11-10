@@ -1,0 +1,5 @@
+{
+  "name": "Refund Multi-Agent System",
+  "description": "An AI-powered application that analyzes refund evidence from a PDF, extracts key information, formulates legal claims, and drafts a professional appeal letter using a multi-agent workflow.",
+  "requestFramePermissions": []
+}
